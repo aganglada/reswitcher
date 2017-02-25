@@ -1,9 +1,11 @@
 # ⚛ reswitcher
-Performance switch case for redux reducers
+##### Performance switch case for redux reducers.
+
+
 
 Switch cases are slow, or that's what they said.
 
-They also say, it doesn't fit in the functional paradigsm. 
+They also say, it doesn't fit in the functional paradigm. 
 
 It's also not Immutable.
 
