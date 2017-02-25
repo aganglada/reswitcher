@@ -27,10 +27,10 @@ or
 
 And now...! Feel free to use it as your reducer.
 
-```
+```javascript
 import reswitcher from 'reswitcher';
 
-const counter (state = 0, action) =>
+const counter = (state = 0, action) =>
   reswitcher({
     'RESET': 0,
     'INCREMENT': () => state + 1,
