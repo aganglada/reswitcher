@@ -1,6 +1,6 @@
 # 🍭 reswitcher
 
-### Functional witch case for redux reducers.
+### Functional switch case for redux reducers.
 
 Switch cases are slow, or that's what they said.
 
